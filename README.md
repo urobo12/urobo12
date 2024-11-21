@@ -8,5 +8,3 @@
 ![Status](https://img.shields.io/badge/Status-Completed-blue)
 
  
-
-![Build Status](https://github.com/urob012/My-Development/actions/workflows/main.yml/badge.svg)
