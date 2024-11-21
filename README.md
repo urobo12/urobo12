@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-https://urobo12.github.io/data-analysis
+![Python](https://img.shields.io/badge/Language-Python-blue)
