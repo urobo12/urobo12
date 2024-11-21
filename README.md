@@ -5,5 +5,8 @@
 
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
-\
+
+
+![Visitors](https://komarev.com/ghpvc/?username=uro&color=brightgreen)
+
  
