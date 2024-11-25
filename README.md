@@ -5,7 +5,7 @@ language : ![Python](https://img.shields.io/badge/Language-Python-blue) ![JavaSc
 
 <hr>
 
-status :  ![Status](https://img.shields.io/badge/Status-In%20Progress-brightgreen)
+status :  !(https://img.shields.io/badge/Status-In%20Progress-brightgreen)
 
 
  
