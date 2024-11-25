@@ -14,11 +14,11 @@ I am a college student with a passion for programming and software development.
 ![CSS](https://img.shields.io/badge/Language-CSS-blueviolet)  
 
 ## 🎯 Interests
-- 게임 개발 🎮  
-- 텍스트 기반 RPG 게임 📜  
-- 데이터 분석 📊  
-- 오픈소스 프로젝트 🚀  
-- 새로운 기술 배우기 💻  
+- Game Development 🎮  
+- Text-based RPG Games 📜  
+- Data Analysis 📊  
+- Open-source Projects 🚀  
+- Learning New Technologies 💻  
 
 
 
