@@ -5,6 +5,7 @@ I am a college student with a passion for programming and software development.
 
 ## 🔧 Languages I Use 
 ![Python](https://img.shields.io/badge/Language-Python-blue)  
+![C](https://img.shields.io/badge/Language-C-blue)  
 ![Java](https://img.shields.io/badge/Language-Java-orange)  
 ![SQL](https://img.shields.io/badge/Language-SQL-yellow)  
 
